@@ -7,7 +7,7 @@ Este projeto tem como objetivo explorar e implementar comunicação serial utili
 ## Componentes Utilizados
 
 - **Matriz 5x5 de LEDs WS2812** (endereçáveis) - GPIO 7
-- **LED RGB** - GPIOs 11, 12 e 13
+- **LED RGB** - GPIOs 11 e 12
 - **Botão A** - GPIO 5
 - **Botão B** - GPIO 6
 - **Display SSD1306** - GPIOs 14 e 15
