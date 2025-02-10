@@ -53,3 +53,7 @@ https://github.com/FilipeVBF/EmbarcaTech_tarefa_comunicacao_serial.git
 8. Sempre que um LED mudar de estado, a informação será atualizada no display SSD1306 e enviada ao Serial Monitor.
 9. Digite um número (0-9) no Serial Monitor para exibir o símbolo correspondente na matriz de LEDs WS2812.
 10. Digite qualquer letra ou número no Serial Monitor para exibi-lo no display SSD1306.
+
+## Vídeo da Solução
+Segue abaixo o link do vídeo da demonstração do projeto:
+[Ver vídeo](https://drive.google.com/file/d/1aLMba1WNZz24jvzbeRZMH-ZRNyGpJIKk/view?usp=sharing)
